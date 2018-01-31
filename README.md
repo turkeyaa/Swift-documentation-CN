@@ -4,7 +4,7 @@
 
 ## Swift
 
-[网站地址：raywenderlich.com](www.raywenderlich.com)
+[网站地址：raywenderlich.com](https://www.raywenderlich.com)
 
 Swift语言苹果为开发推出的最新的、现代的、安全的程序语言。如果你想通过学习iOS、macOS、watchOS、tvOS的app开发，来对了，这里提供了大量的Swift教程
 
@@ -54,7 +54,7 @@ Swift语言苹果为开发推出的最新的、现代的、安全的程序语言
 
 一旦你了解了Swift语言的基础，你可能想看看这些新的文章和参考文献
 
-* Swift4备忘单和快速引用
+* [Swift4备忘单和快速引用](文章/README.md)
 * Swift中引用 vs 值类型：第一节
 * Swift中引用 vs 值类型：第二节
 * Swift中集合数据结构
