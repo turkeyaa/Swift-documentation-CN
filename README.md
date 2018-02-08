@@ -66,7 +66,7 @@ Swift语言苹果为开发推出的最新的、现代的、安全的程序语言
 
 我们发布了一系列Swift语言的其他的教程，你也会去学习的
 
-* 学习Swife语言枚举、结构和类
+* [学习Swift语言枚举、结构和类](教程/Enums-Structs-Classes.md)
 * Swift 教程：深度初始化：第一节
 * Swift 教程：深度初始化：第二节
 * Linux中开源Swift介绍

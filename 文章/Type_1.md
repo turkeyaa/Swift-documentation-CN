@@ -289,8 +289,8 @@ person2.account.balance    // 100
 
 在所有情况下，当新的需求出现时，通常的感觉有兴趣去改变架构是最好的方法。挑战你自己，追随Swift模式；你可能会发现一些比你原来想的更好的代码!
 
-### 去哪里？
+## 去哪里？
 
-你可以下载完整的playground，包含该文章的所有代码[下载](../Resource/ValueSemanticsPart1Final.playground)
+你可以下载完整的playground，包含该文章的所有代码[下载](../Resource/ValueSemanticsPart1Final.playground.zip)
 
 至此，您已经讨论了值类型和引用类型之间的差异，以及何时使用其中一个。在[该系列第二节](Type_2.md)，您将解决实际问题，并学习一些高级的值类型机制。
